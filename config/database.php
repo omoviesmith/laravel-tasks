@@ -31,7 +31,7 @@ return [
     | so make sure you have the driver for your particular database of
     | choice installed on your machine before you begin development.
     | 
-    | Add Certificate (sample ci check)
+    | Add Certificate (sample ci check) ......
     */
 
     'connections' => [
